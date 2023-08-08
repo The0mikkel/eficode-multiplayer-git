@@ -1,1 +1,2 @@
 Name: My is apparantly my-name
+Color: Black
