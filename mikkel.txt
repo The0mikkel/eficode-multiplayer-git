@@ -1,0 +1,3 @@
+Name: Mikkel
+Colour: Blue
+Food: Burger
